@@ -1,7 +1,7 @@
 .bot-card {
   border: 1px solid #ddd;
   border-radius: 8px;
-  padding: 10px;
+  padding: 15px;
   background-color: #fff;
   position: relative;
   transition: transform 0.2s;
@@ -48,7 +48,7 @@
   color: #fff;
   border: none;
   border-radius: 50%;
-  width: 24px;
-  height: 24px;
+  width: 70px;
+  height: 35px;
   cursor: pointer;
 }

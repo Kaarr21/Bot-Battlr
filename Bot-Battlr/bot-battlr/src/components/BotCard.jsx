@@ -20,7 +20,7 @@ export default function BotCard({ bot, onClick, onDelete }) {
             e.stopPropagation();
             onDelete(bot.id);
           }}>
-          x
+          X
         </button>
       )}
     </div>
